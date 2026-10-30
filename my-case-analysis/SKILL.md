@@ -1,3 +1,7 @@
+---
+name: my-case-analysis
+description: Analyze civil, labor, and other legal disputes using user-provided case files. Trigger when the user asks to organize case facts, identify disputed issues, review judgments, examine evidence, assess legal reasoning, compare procedural documents, or develop evidence-based legal arguments.
+---
 # Legal Case Analysis
 
 ## Purpose
